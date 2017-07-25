@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
-resources/*
+resources/
+MNIST_data/
+summary_logs/
